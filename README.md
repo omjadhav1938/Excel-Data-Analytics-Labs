@@ -2,6 +2,8 @@
 
 ### 🛒 Retail Data Analysis | 9 Hands-On Excel Workbooks
 
+---
+
 ## 📌 Project Overview
 
 This repository contains **9 Excel workbooks** covering spreadsheet fundamentals, formulas, data cleaning, lookup functions, and retail data analysis using DMart practice datasets.
@@ -11,6 +13,7 @@ The project focuses on organizing data, applying Excel functions, analyzing sale
 ## 📂 Project Workbooks
 
 | # | Workbook | Key Focus |
+|:---:|---|---|
 | 📗 01 | **Excel Fundamentals** | Spreadsheet basics and data organization |
 | 🧮 02 | **Excel Formulas & Functions** | Calculations and logical functions |
 | 🧹 03 | **Data Cleaning & Preprocessing** | Data consistency and preparation |
@@ -32,6 +35,7 @@ The project focuses on organizing data, applying Excel functions, analyzing sale
 
 ## 📁 Repository Structure
 
+```text
 Excel-Data-Analytics-Labs/
 ├── 01_Excel_Fundamentals.xlsx
 ├── 02_Excel_Formulas_and_Functions.xlsx
@@ -43,6 +47,7 @@ Excel-Data-Analytics-Labs/
 ├── 08_Lookup_Functions.xlsx
 ├── 09_DMart_Retail_Analytics_Practice.xlsx
 └── README.md
+```
 
 ## 💻 Tools Used
 
@@ -56,7 +61,11 @@ Excel-Data-Analytics-Labs/
 
 The DMart datasets are used for practice and educational purposes and are not official company data.
 
-👤 Author
-   - Om Jadhav
+---
 
+## 👤 Author
+
+**Om Jadhav**
+
+*Excel Data Analytics Portfolio*
 
